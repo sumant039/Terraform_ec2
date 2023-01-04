@@ -1,0 +1,5 @@
+instance_type      = "t3.micro"
+ami                = "ami-07ffb2f4d65357b42"
+cidr_block         = "10.0.0.0/16"
+availability_zone1 = "ap-south-1b"
+availability_zone2 = "ap-south-1a"
